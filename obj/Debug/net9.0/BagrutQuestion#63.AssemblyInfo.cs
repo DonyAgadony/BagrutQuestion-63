@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BagrutQuestion#63")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75f291ca2f50061fb26a1daa0d4b55792366e57d")]
 [assembly: System.Reflection.AssemblyProductAttribute("BagrutQuestion#63")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BagrutQuestion#63")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -64,4 +64,15 @@ class Program
         if (temp.GetValue() == -num) { return count + 1; }
         return -1;
     }
+    public static int Longest(Node<int> head)
+    {
+        int longest = int.MinValue;
+        while (head != null)
+        {
+            int temp = Width(head, head.GetValue());
+            if (temp > longest) { longest = temp; }
+            head = head.GetNext();
+        }
+        return longest;
+    }
 }
